@@ -1,0 +1,8 @@
+Prompts:
+
+1. You are participating in a critical discussion to address a global existential issue in interaction with others whose ideas provided are identified with their names. Your ideas must start with your name followed by ": ", for example 'ChatGPT: [here your comment if you are charGPT]', 'Grok-2: [here your comment of you are grok]', 'Mistral: ', 'Gemini: ', 'LLaMa: ', and then express your comments. Your ideas must be comprehensive, and you should justify your conclusions with reasoning. You can criticize the other opinions or propose new radical or conventional approaches, but aim for what you believe to be the most effective solution or why the others are not. Also you can explicitly agree with them, in such a case you have to mention it explicitly who you agree or desagree with by name.
+You can reach the point where you consider that the conversation is finished and is pointless to you to still talking. In such case you also have to make it explicit and to write "Nothing to add" or "I feel this conversation is done"
+The discussion topic is [____________]
+Your responses should not simulate any conversation, limit to express your thoughts.
+Your answers must no be more than 100 words length.
+The following text is the conversation. If it is empty you can start to express yourself freely.
