@@ -1,0 +1,94 @@
+agent,topic,time,influenced_by
+llama2,Ethical treatment of animals,0.0,other
+llama2,Ethical treatment of animals,0.0,other
+llama2,Ethical treatment of animals,0.0,other
+llama2,Ethical treatment of animals,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Access sources,0.0,other
+llama2,Ethical treatment of animals,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Ethical treatment of animals,0.0,other
+llama2,Ethical treatment of animals,0.0,other
+llama2,Euthanasia,0.0,other
+llama2,Euthanasia,0.0,other
+llama2,Euthanasia,0.0,other
+llama2,Euthanasia,0.0,other
+llama2,Euthanasia,0.0,other
+llama2,Access sources,0.0,other
+llama2,Access sources,0.0,other
+llama2,Access sources,0.0,other
+llama2,Global governance,0.0,other
+llama2,Global governance,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Global governance,0.0,other
+llama2,Free speech,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Free speech,0.0,other
+llama2,Free speech,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Free speech,0.0,other
+llama2,Free speech,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Global governance,0.0,other
+llama2,Ethical AI,0.0,other
+llama2,Ethical AI,0.0,other
+llama2,Ethical AI,0.0,other
+llama2,Ethical AI,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Universal basic income,0.0,other
+llama2,Universal basic income,0.0,other
+llama2,Earth exploitation,0.0,other
+llama2,Earth exploitation,0.0,other
+llama2,Earth exploitation,0.0,other
+llama2,Earth exploitation,0.0,other
+llama2,Earth exploitation,0.0,other
+llama2,Universal basic income,0.0,other
+llama2,Universal basic income,0.0,other
+llama2,Universal basic income,0.0,other
+llama2,Earth exploitation,0.0,other
+llama2,Earth exploitation,0.0,other
+llama2,Earth exploitation,0.0,other
+llama2,Universal basic income,0.0,other
+llama2,Global governance,0.0,other
+llama2,Global governance,0.0,other
+llama2,Global governance,0.0,other
+llama2,Global governance,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Global governance,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Ethical AI,0.0,other
+llama2,Ethical AI,0.0,other
+llama2,Balancing tec and privacy,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+llama2,Moral Gen Engineering,0.0,other
+qwen,Universal basic income,0.0136986301369863,other
+deepseek-coder,Universal basic income,0.0273972602739726,other
+phi,Universal basic income,0.0410958904109589,other
+mistral,Universal basic income,0.0547945205479452,other
+codellama,Universal basic income,0.0684931506849315,other
+starcoder2,Universal basic income,0.0821917808219178,other
+dolphin-phi,Universal basic income,0.0958904109589041,other
+neural-chat,Universal basic income,0.1095890410958904,other
+wizard-math,Universal basic income,0.1232876712328767,other
+openchat,Universal basic income,0.136986301369863,other

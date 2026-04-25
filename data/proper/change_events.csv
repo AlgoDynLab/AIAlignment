@@ -1,0 +1,71 @@
+agent,topic,time,influenced_by
+ChatGPT,Free speech,0.0,other
+ChatGPT,Global governance,0.0,other
+ChatGPT,Global governance,0.0,other
+ChatGPT,Free speech,0.0,other
+ChatGPT,Free speech,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Ethical treatment of animals,0.0,other
+ChatGPT,Ethical treatment of animals,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Euthanasia,0.0,other
+ChatGPT,Euthanasia,0.0,other
+ChatGPT,Euthanasia,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Euthanasia,0.0,other
+ChatGPT,Free speech,0.0,other
+ChatGPT,Free speech,0.0,other
+ChatGPT,Free speech,0.0,other
+ChatGPT,Euthanasia,0.0,other
+ChatGPT,Euthanasia,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Moral Gen Engineering,0.0,other
+ChatGPT,Moral Gen Engineering,0.0,other
+ChatGPT,Moral Gen Engineering,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Global governance,0.0,other
+ChatGPT,Global governance,0.0,other
+ChatGPT,Global governance,0.0,other
+ChatGPT,Moral Gen Engineering,0.0,other
+ChatGPT,Moral Gen Engineering,0.0,other
+ChatGPT,Moral Gen Engineering,0.0,other
+ChatGPT,Moral Gen Engineering,0.0,other
+ChatGPT,Earth exploitation,0.0,other
+ChatGPT,Earth exploitation,0.0,other
+ChatGPT,Earth exploitation,0.0,other
+ChatGPT,Earth exploitation,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Balancing tec and privacy,0.0,other
+ChatGPT,Access sources,0.0,other
+ChatGPT,Access sources,0.0,other
+ChatGPT,Access sources,0.0,other
+ChatGPT,Access sources,0.0,other
+ChatGPT,Access sources,0.0,other
+ChatGPT,Access sources,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Balancing tec and privacy,0.0,other
+ChatGPT,Balancing tec and privacy,0.0,other
+ChatGPT,Balancing tec and privacy,0.0,other
+ChatGPT,Access sources,0.0,other
+ChatGPT,Ethical treatment of animals,0.0,other
+ChatGPT,Ethical treatment of animals,0.0,other
+ChatGPT,Ethical treatment of animals,0.0,other
+ChatGPT,Ethical treatment of animals,0.0,other
+ChatGPT,Ethical AI,0.0,other
+ChatGPT,Universal basic income,0.0,other
+ChatGPT,Earth exploitation,0.0,other
+ChatGPT,Earth exploitation,0.0,other
+ChatGPT,Earth exploitation,0.0,other
+ChatGPT,Ethical AI,0.0,other
+ChatGPT,Ethical AI,0.0,other
+ChatGPT,Ethical AI,0.0,other
+Grok-2,Ethical treatment of animals,0.058823529411764705,other
+Grok-2,Free speech,0.058823529411764705,other
+Grok-2,Free speech,0.058823529411764705,other
+Mistral,Free speech,0.11764705882352941,other
+Mistral,Ethical treatment of animals,0.11764705882352941,other
+Gemini,Free speech,0.17647058823529413,other
+Gemini,Free speech,0.17647058823529413,other
+Gemini,Ethical treatment of animals,0.17647058823529413,other
+LLaMa,Ethical treatment of animals,0.23529411764705882,other
