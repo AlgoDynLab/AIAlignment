@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Large raw data files (use external storage or Git LFS instead)
+data/open/open_rais.csv
+data/proper/prop_rais.csv
